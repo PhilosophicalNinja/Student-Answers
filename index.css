@@ -5,6 +5,16 @@ body {
     font-size: 30px;
 }
 
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 50px;
+}
+
+button {
+    font-size: 30px;
+}
+
 li:hover {
     opacity: 0.8;
     border: 1px solid black;
