@@ -1,0 +1,13 @@
+
+body {
+    background-color: gray;
+    color: rgb(16, 230, 230);
+    font-size: 30px;
+}
+
+li:hover {
+    opacity: 0.8;
+    border: 1px solid black;
+    margin-right: 320px;
+    cursor: pointer;
+}
